@@ -47,6 +47,10 @@ a{
 	text-decoration: none;
 }
 
+a:hover{
+	background-color: #2A315E
+}
+
 footer{
 	margin-top: 30px;
 	padding: 40px;
